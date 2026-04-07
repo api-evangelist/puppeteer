@@ -7,9 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Scraping
   - Browser Automation
   - Headless Browsers
+  - Scraping
 url: >-
   https://raw.githubusercontent.com/api-evangelist/puppeteer/refs/heads/main/apis.yml
 created: '2026-03-29'
@@ -24,9 +24,9 @@ apis:
       automation.
     humanURL: https://pptr.dev/
     tags:
-      - Scraping
       - Browser Automation
       - Headless Browsers
+      - Scraping
     properties:
       - type: Documentation
         url: https://pptr.dev/guides
