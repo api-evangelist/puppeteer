@@ -30,14 +30,14 @@ apis:
     properties:
       - type: Documentation
         url: https://pptr.dev/guides
-      - type: Getting Started
+      - type: GettingStarted
         url: https://pptr.dev/guides/getting-started
 common:
   - type: Website
     url: https://pptr.dev/
   - type: Documentation
     url: https://pptr.dev/guides
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/puppeteer
 maintainers:
   - FN: Kin Lane
