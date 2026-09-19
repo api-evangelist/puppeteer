@@ -31,6 +31,10 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/puppeteer.png
 tags:
   - Browser Automation
+  - Headless Browser
+  - Scraping
+tags_raw:
+  - Browser Automation
   - Headless Browsers
   - Scraping
 url: >-
@@ -47,6 +51,10 @@ apis:
       automation.
     humanURL: https://pptr.dev/
     tags:
+      - Browser Automation
+      - Headless Browser
+      - Scraping
+    tags_raw:
       - Browser Automation
       - Headless Browsers
       - Scraping
