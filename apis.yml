@@ -32,7 +32,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/puppeteer.
 tags:
   - Browser Automation
   - Headless Browser
-  - Scraping
+  - Web Scraping
 tags_raw:
   - Browser Automation
   - Headless Browsers
@@ -53,7 +53,7 @@ apis:
     tags:
       - Browser Automation
       - Headless Browser
-      - Scraping
+      - Web Scraping
     tags_raw:
       - Browser Automation
       - Headless Browsers
